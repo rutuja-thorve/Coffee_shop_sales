@@ -24,7 +24,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZmM2YzRhZjItNmMzYS00YmIzLTlkMmItOTE1NzdlN
   6. DAX language
   7. Dax studio( TO REDUCE FILE SIZE)
 
-    ### Key Insights
+  ### Key Insights
     1. Total sales and MoM Chg %
     2. Total Quentity and MoM Chg %
     3. Total Order and MoM Chg %
