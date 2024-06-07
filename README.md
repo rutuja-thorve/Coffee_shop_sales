@@ -8,16 +8,16 @@ The objective was to leverage Power BI to extract valuable insights from a datas
 https://app.powerbi.com/view?r=eyJrIjoiZmM2YzRhZjItNmMzYS00YmIzLTlkMmItOTE1NzdlNGIwZWQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ### Power BI Learnings
-  1. Creating calcualted columns and DAX measures.
+  1. Creating calculated columns and DAX measures.
   2. Data Modelling ,data validation techniques and using KPI indicators.
   3. Tooltips to save page area.
   4. Dynamic titles based on the applied filters.
   5. PowerBI services for publishing and sharing reports online.
   6. Conditional Formatting
 
-   ### Tools Uesd
-  1. PowerBI Desktop
-  2. PowerBI Service
+   ### Tools Used
+  1. Power BI Desktop
+  2. Power BI Service
   3. MYSQL database
   4. MS.EXCEL 
   5. Power Query
@@ -26,9 +26,9 @@ https://app.powerbi.com/view?r=eyJrIjoiZmM2YzRhZjItNmMzYS00YmIzLTlkMmItOTE1NzdlN
 
   ### Key Insights
  1. Total sales and MoM Chg %
- 2. Total Quentity and MoM Chg
+ 2. Total Quantity and MoM Chg
  3. Total Order and MoM Chg %
- 4. Calender Heat Map
+ 4. Calendar Heat Map
  5. Sales Analysis by Weekends and Weekdays
  6. Sales Analysis by Store Location
  7. Implement tooltip to display special metrics(Sales, Quantity, Order) when houring over a specific day.
