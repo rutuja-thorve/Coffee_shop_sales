@@ -25,16 +25,16 @@ https://app.powerbi.com/view?r=eyJrIjoiZmM2YzRhZjItNmMzYS00YmIzLTlkMmItOTE1NzdlN
   7. Dax studio( TO REDUCE FILE SIZE)
 
   ### Key Insights
-    1. Total sales and MoM Chg %
-    2. Total Quentity and MoM Chg %
-    3. Total Order and MoM Chg %
-    4. Calender Heat Map
-    5. Sales Analysis by Weekends and Weekdays
-    6. Sales Analysis by Store Location
-    7. Implement tooltip to display special metrics(Sales, Quantity, Order) when houring over a specific day.
-    8. Daily sales analysis with average line
-    9. Top 10 products by sales
-   10. Sales analysis by day and hour
+ 1. Total sales and MoM Chg %
+ 2. Total Quentity and MoM Chg
+ 3. Total Order and MoM Chg %
+ 4. Calender Heat Map
+ 5. Sales Analysis by Weekends and Weekdays
+ 6. Sales Analysis by Store Location
+ 7. Implement tooltip to display special metrics(Sales, Quantity, Order) when houring over a specific day.
+ 8. Daily sales analysis with average line
+ 9. Top 10 products by sales
+10. Sales analysis by day and hour
 
    ### Soft Skills
    1. Got to know new domain for sales analysis.
